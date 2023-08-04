@@ -5,9 +5,9 @@
 
 - Under Construction
 - TODO
-    - [ ] Citation of each paper
-    - [ ] Link of each paper
-    - [ ] Survey paper
+- [ ] Citation of each paper
+- [ ] Link of each paper
+- [ ] Survey paper
 ---
 ## Introduction (Draft by ChatGPT😄)
 
