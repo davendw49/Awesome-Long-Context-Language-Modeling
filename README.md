@@ -37,7 +37,7 @@ To overcome this limitation and better model long-range dependencies in text, re
 > Rather than relying on a fixed context window, some models use a sliding window approach. They process the text in smaller chunks, capturing local dependencies within each window and passing relevant information between adjacent windows.
 
 - Efficient Long-Text Understanding with Short-Text Models
-
+- LongCoder: A Long-Range Pre-trained Language Model for Code Completion
 
 #### Meta-Learning and Few-Shot Learning
 > These techniques aim to enable models to learn from limited examples of long-context tasks, potentially generalizing better to longer sequences.
@@ -57,6 +57,7 @@ To overcome this limitation and better model long-range dependencies in text, re
 - LONGNET: Scaling Transformers to 1,000,000,000 Tokens
 - Blockwise Parallel Transformer for Long Context Large Models
 - ETC: Encoding Long and Structured Inputs in Transformers
+- Improving Long Context Document-Level Machine Translation
 
 #### Analysis
 
@@ -73,6 +74,7 @@ To overcome this limitation and better model long-range dependencies in text, re
 
 - L-Eval: Instituting Standardized Evaluation for Long Context Language Models
 - Long Range Arena: A Benchmark for Efficient Transformers
+- Large-Scale Language Model Rescoring on Long-Form Data
 
 
 ## Contact Me
