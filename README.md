@@ -1,6 +1,5 @@
 <p align=center>
-<h1 align=center>Awesome <img src="https://big-cheng.com/img/lclm.png" alt="covidia-logo" width="100"/> papers</h1>
-<h4 align=center><em>Awesome Papers of Long Context Language Model</em></h4>
+<h1 align=center><img src="https://big-cheng.com/img/lclm.png" alt="covidia-logo" width="100"/>Awesome Long-context Language Modeling papers</h1>
 </p>
 
 ---
