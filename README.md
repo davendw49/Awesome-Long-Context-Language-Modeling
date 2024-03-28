@@ -1,5 +1,5 @@
 <p align=center>
-<h1 align=center><img src="https://big-cheng.com/img/lclm.png" alt="covidia-logo" width="100"/>Awesome Long-context Language Modeling papers</h1>
+<h1 align=center><img src="https://big-cheng.com/img/lclm.png" alt="lclm-logo" width="100"/>Awesome Long-context Language Modeling papers</h1>
 </p>
 
 ---
