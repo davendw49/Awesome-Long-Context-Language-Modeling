@@ -68,6 +68,7 @@ To overcome this limitation and better model long-range dependencies in text, re
 >Some approaches use reinforcement learning to guide the model's attention to focus on important parts of the input text while considering the context.
 
 - [A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis](https://arxiv.org/pdf/2307.12856.pdf)
+- [Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization](https://arxiv.org/pdf/2508.13993.pdf)
 
 ### Benchmark
 
